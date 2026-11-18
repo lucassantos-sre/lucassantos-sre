@@ -31,7 +31,7 @@ Desenvolvedor full stack com forte atuação em **monitoramento, automação e o
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-DC0000?style=flat&logo=zabbix&logoColor=white)
 
-Também: Alertmanager, dashboards e alertas (Slack), Golden Signals / RED & USE, APIs REST, SQL, automação operacional, testes com Playwright.
+Também: Alertmanager, dashboards e alertas (Slack), Golden Signals / RED & USE, APIs REST, SQL.
 
 ---
 
