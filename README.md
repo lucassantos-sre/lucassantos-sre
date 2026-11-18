@@ -1,7 +1,7 @@
 ## 👋 Lucas Santos
 
 **Desenvolvedor Full Stack Pleno** · C# · JavaScript  
-Observabilidade & NOC em provedores · Grafana · Zabbix · SGP · Aruba
+Observabilidade & NOC em provedores · Prometheus · Grafana · Alertmanager · Zabbix · SGP · Aruba
 
 ---
 
@@ -27,10 +27,11 @@ Desenvolvedor full stack com forte atuação em **monitoramento, automação e o
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-DC0000?style=flat&logo=zabbix&logoColor=white)
 
-Também: APIs REST, SQL, automação de rotinas operacionais, testes com Playwright.
+Também: Alertmanager, dashboards e alertas (Slack), Golden Signals / RED & USE, APIs REST, SQL, automação operacional, testes com Playwright.
 
 ---
 
@@ -38,6 +39,16 @@ Também: APIs REST, SQL, automação de rotinas operacionais, testes com Playwri
 
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 Centro Universitário Jorge Amado (Unijorge) · mar/2021 – dez/2023
+
+---
+
+### Certificações · Alura
+
+| Curso | Foco |
+|-------|------|
+| [Monitoramento: Prometheus, Grafana e Alertmanager](https://www.alura.com.br/curso-online-monitoramento-prometheus-grafana-alertmanager) | Dashboards Grafana, métricas, Alertmanager + Slack |
+| [Grafana e Telegraf: monitoramento em tempo real](https://www.alura.com.br/curso-online-grafana-telegraf-monitoramento) | Telegraf, InfluxDB, infra, Docker e logs |
+| **Zabbix** | Monitoramento em NOC (provedores/ISPs) — rotina operacional + base Alura (Linux, SRE, redes) |
 
 ---
 
