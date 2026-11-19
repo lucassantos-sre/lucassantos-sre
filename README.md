@@ -53,7 +53,7 @@ Desenvolvedor Full Stack no ciclo completo de produtos digitais — dados, APIs 
 
 Também: **Aruba Central**, **SGP**, Alertmanager, Telegraf, InfluxDB, SNMP, Mikrotik, OLTs, VLANs, TimescaleDB, Prisma, NATS, Golden Signals / RED & USE, APIs REST, CI/CD.
 
-**IA e automação:** Cursor · IA aplicada a automações, agilidade e autonomia no desenvolvimento.
+**IA e automação:** IA aplicada a automações, integrações e ganho de agilidade no desenvolvimento.
 
 ---
 
